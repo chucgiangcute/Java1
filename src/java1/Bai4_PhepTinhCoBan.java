@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class Bai4_PhepTinhCoBan {
     public static void main(String[] args) {
-        System.out.println("Chương trình phép tính cơ bản");
+        System.out.println("Chuong trinh tinh tuoi co ban");
          //double a,b;
         Scanner sc = new Scanner (System.in);
         
