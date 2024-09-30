@@ -30,7 +30,6 @@ public class Bai6_TinhLuyThua {
       }
       return ketQua;
     }
-    
 }
         
     
